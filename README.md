@@ -1,2 +1,2 @@
-# Joshidito is a nigga
+# Joshidito
 Gitflow process
